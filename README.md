@@ -1,5 +1,7 @@
 ## *Implementasi_Prototype_PeduliLindungi*
 
+![preview-app](image/image.jpg)
+
 Berikut ini adalah cara mengimplementasi prototype yang telah dibuat kedalam mobole apps, kami menggunakan tools 
 android studio untuk coding dan untuk bahasa pemrograman yang kami gunakan adalah kotlin. design kami adaptasi dari
 prototype yang telah dibuat pada tools figma.
